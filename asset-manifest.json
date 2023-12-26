@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/trainerait52/web.git/static/css/main.d3ab35b9.css",
+    "main.js": "/trainerait52/web.git/static/js/main.760af747.js",
+    "static/media/flowers.jpg": "/trainerait52/web.git/static/media/flowers.304f4e24c5e2af303dba.jpg",
+    "index.html": "/trainerait52/web.git/index.html",
+    "main.d3ab35b9.css.map": "/trainerait52/web.git/static/css/main.d3ab35b9.css.map",
+    "main.760af747.js.map": "/trainerait52/web.git/static/js/main.760af747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3ab35b9.css",
+    "static/js/main.760af747.js"
+  ]
+}
