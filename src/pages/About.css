@@ -1,0 +1,90 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the overall container */
+.about-container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+/* Style the header */
+.about-header {
+  background-color: #000000;
+  color: #fffefe;
+  margin-top: 70px;
+  padding: 10px;
+}
+
+.about-header h1 {
+  font-size: 2rem;
+
+}
+
+/* Style the content section */
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the description section */
+.about-description h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.about-description p {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+/* Style the team section */
+.about-team h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+/* Style the team members */
+.team-member {
+  margin-top: 20px;
+}
+
+.team-member img {
+  max-width: 100px;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+.team-member h3 {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.team-member p {
+  font-size: 1rem;
+  color: #666;
+}
+/* show more show less */
+.text-container {
+  /* Your default styles here */
+}
+
+
+
+.text-container.expanded .additional-text {
+  /* Styles for additional text when expanded */
+  display: block; /* Show when expanded */
+}
